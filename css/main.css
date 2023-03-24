@@ -1,5 +1,3 @@
-<head>
-<style>
 h1
 {
 color: rgb(255, 133, 222);
@@ -9,7 +7,7 @@ text-decoration: underline;
 }
 h2
 {
-color: rgb(98, 145, 240);
+color: rgb(243, 233, 208);
 font-size: 24pt;
 font-family:georgia;
 }
@@ -25,14 +23,12 @@ background-color: rgb(169, 214, 245);
 }
 img
 {
-width: 200px;
+width: 300px;
 border-radius: 15%;
 opacity: 100%;
 padding: 10px;
 margin: 10px;
 filter: none;
 }
-</style>
-</head>
 
 
