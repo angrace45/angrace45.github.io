@@ -14,13 +14,13 @@ text-decoration: underline;
 }
 p
 {
-color: black;
+color: white;
 font-size: 14pt;
 font-family: typewriter revo;
 }
 body
 {
-background-color: rgb(215, 220, 222);
+background-color: rgb(24, 44, 77);
 }
 img
 {
