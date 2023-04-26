@@ -12,16 +12,23 @@ font-size: 24pt;
 font-family: futura;
 text-decoration: underline;
 }
+
+
 p
 {
 color: white;
 font-size: 14pt;
 font-family: typewriter revo;
+text-align: center;
 }
+
+
 body
 {
 background-color: rgb(24, 44, 77);
 }
+
+
 img
 {
 width: 150px;
