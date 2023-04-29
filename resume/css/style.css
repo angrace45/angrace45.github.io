@@ -3,7 +3,7 @@ h1
 color: white;
 font-size: 28pt;
 font-family: futura;
-text-decoration: underline;
+font-style: italic;
 text-align: center;
 }
 h2
@@ -27,6 +27,7 @@ text-align: center;
 
 body
 {
+color: white;
 background-color: rgb(24, 44, 77);
  text-align: center;
 }
