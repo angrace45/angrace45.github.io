@@ -4,6 +4,7 @@ color: white;
 font-size: 28pt;
 font-family: futura;
 text-decoration: underline;
+text-align: center;
 }
 h2
 {
@@ -11,6 +12,7 @@ color: white;
 font-size: 24pt;
 font-family: futura;
 text-decoration: underline;
+text-align: center;
 }
 
 
@@ -26,15 +28,17 @@ text-align: center;
 body
 {
 background-color: rgb(24, 44, 77);
+ text-align: center;
 }
 
 
 img
 {
 width: 150px;
-border-radius: 15%;
+border-radius: 10%;
 opacity: 100%;
 padding: 10px;
 margin: 10px;
 filter: none;
+text-align: center;
 }
