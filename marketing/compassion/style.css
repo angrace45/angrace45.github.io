@@ -6,6 +6,7 @@ font-family: Montserrat;
 text-decoration: underline;
 text-align: center;
 }
+
 h2
 {
 color: rgb(111, 143, 175);
@@ -13,6 +14,7 @@ font-size: 24pt;
 font-family: futura;
 text-decoration: underline;
 }
+
 p
 {
 color: black;
@@ -21,8 +23,9 @@ font-family: futura;
 }
 body
 {
-background-color: rgb(215, 220, 222);
+background-color: white;
 }
+
 img
 {
 border-radius: 15%;
