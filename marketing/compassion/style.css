@@ -1,9 +1,10 @@
 h1
 {
-color: rgb(69, 97, 120);
+color: blue;
 font-size: 38pt;
-font-family: futura;
+font-family: Montserrat;
 text-decoration: underline;
+text-align: center;
 }
 h2
 {
