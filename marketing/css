@@ -1,0 +1,33 @@
+h1
+{
+color: rgb(69, 97, 120);
+font-size: 38pt;
+font-family: futura;
+text-decoration: underline;
+}
+h2
+{
+color: rgb(111, 143, 175);
+font-size: 24pt;
+font-family: futura;
+text-decoration: underline;
+}
+p
+{
+color: black;
+font-size: 14pt;
+font-family: futura;
+}
+body
+{
+background-color: rgb(215, 220, 222);
+}
+img
+{
+width: 150px;
+border-radius: 15%;
+opacity: 100%;
+padding: 10px;
+margin: 10px;
+filter: none;
+}
